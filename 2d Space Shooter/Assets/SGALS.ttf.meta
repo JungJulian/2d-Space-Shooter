@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c85e397c8921e92469a518fff0705678
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Galiver Sans Obliques
+  fontNames:
+  - Galiver Sans Obliques
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 681d501449eefb749b0f207203014161, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
